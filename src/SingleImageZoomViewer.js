@@ -150,7 +150,7 @@ class SingleImageZoomViewer extends React.Component {
                             "y",
                             moveY,
                             this.state.height,
-                            this.windowWidth
+                            this.windowHeight
                         );
 
                         this.setState({
